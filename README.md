@@ -53,6 +53,7 @@ Simulated IT help desk project using **Active Directory**, **Group Policy**, **R
 ![](./screenshots/4.png)
 ![](./screenshots/5.png)
 - **Screenshots above are ServiceNow documentation**
+
 ![](./screenshots/6.png)
 ![](./screenshots/7.png)
 ![](./screenshots/8.png)
@@ -64,16 +65,22 @@ Simulated IT help desk project using **Active Directory**, **Group Policy**, **R
 ![](./screenshots/14.png)
 ![](./screenshots/15.png)
 - **Screenshots above are Windows Server domain and policy configuration**
+
 ![](./screenshots/16.png)
 ![](./screenshots/17.png)
 - **Screenshots above show the use of RDP for user troubleshooting tickets**
+
 ![](./screenshots/18.png)
 - **Screenshot above shows the folder access ticket being resolved by updating permissions for Sally**
+
 ![](./screenshots/19.png)
 - **Screenshot above shows the printer issue ticket being resolved by restarting the Print Spooler service**
+
 ![](./screenshots/20.png)
 - **Screenshot above shows the account lockout ticket being resolved in Active Directory**
+
 ![](./screenshots/21.png)
 - **Screenshot above shows the password reset ticket being resolved in Active Directory**
+
 ![](./screenshots/22.png)
 - **Screenshot above shows the account disable ticket being resolved in Active Directory**
