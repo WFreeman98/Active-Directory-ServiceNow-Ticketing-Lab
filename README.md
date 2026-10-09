@@ -40,8 +40,40 @@ Simulated IT help desk project using **Active Directory**, **Group Policy**, **R
 - User offboarding | Employee offboarding request | Disabled the account in ADUC
 
 ## Outcome
-- Practiced **helpdesk troubleshooting** workflow
-- Configured **Active Directory** and **Group Policy** for enterprise-style management
-- Gained hands-on experience resolving **realistic end-user tickets**
-- Learned to **document and track issues** using a ticketing workflow 
+- Practiced **help desk troubleshooting** workflows for password resets, account lockouts, printer issues, folder access problems, workstation performance, and user offboarding
+- Configured **Active Directory**, **DNS**, **DHCP**, and **Group Policy** to simulate an enterprise-style Windows domain environment
+- Gained hands-on experience resolving **realistic end-user tickets** using Active Directory Users and Computers, RDP, Task Manager, Print Spooler, and Windows settings
+- Learned to **document, track, resolve, and verify issues** using a ServiceNow ticketing workflow
+- Improved understanding of how help desk technicians troubleshoot user issues, apply fixes, communicate resolutions, and maintain accurate documentation
 ---
+## Screenshot Documentation
+![](./screenshots/1.png)
+![](./screenshots/2.png)
+![](./screenshots/3.png)
+![](./screenshots/4.png)
+![](./screenshots/5.png)
+- **Screenshots above are ServiceNow documentation**
+![](./screenshots/6.png)
+![](./screenshots/7.png)
+![](./screenshots/8.png)
+![](./screenshots/9.png)
+![](./screenshots/10.png)
+![](./screenshots/11.png)
+![](./screenshots/12.png)
+![](./screenshots/13.png)
+![](./screenshots/14.png)
+![](./screenshots/15.png)
+- **Screenshots above are Windows Server domain and policy configuration**
+![](./screenshots/16.png)
+![](./screenshots/17.png)
+- **Screenshots above show the use of RDP for user troubleshooting tickets**
+![](./screenshots/18.png)
+- **Screenshot above shows the folder access ticket being resolved by updating permissions for Sally**
+![](./screenshots/19.png)
+- **Screenshot above shows the printer issue ticket being resolved by restarting the Print Spooler service**
+![](./screenshots/20.png)
+- **Screenshot above shows the account lockout ticket being resolved in Active Directory**
+![](./screenshots/21.png)
+- **Screenshot above shows the password reset ticket being resolved in Active Directory**
+![](./screenshots/22.png)
+- **Screenshot above shows the account disable ticket being resolved in Active Directory**
